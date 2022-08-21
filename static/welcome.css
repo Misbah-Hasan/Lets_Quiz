@@ -10,6 +10,7 @@ body {
 #title {
     text-align: center;
     font-size: 1.5rem;
+    background-color :#90EE90;
 }
 
 .container {
@@ -19,4 +20,8 @@ body {
     -moz-transform: translateX(-50%) translateY(-50%);
     -webkit-transform: translateX(-50%) translateY(-50%);
     transform: translateX(-50%) translateY(-50%);
+}
+
+#container {
+    background-color: #3CB371;
 }
