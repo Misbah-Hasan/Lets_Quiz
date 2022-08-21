@@ -31,30 +31,31 @@ body {
     transform: translateX(-50%) translateY(-50%);
 }
 
+
 h1 {
     text-align: center;
 }
 
 #quiz {
     text-indent: 10px;
-    display:none;
+    display: none;
 }
 
 .button {
     text-align: center;
-    border-radius:5px;
+    border-radius: 5px;
     width: 80px;
-    padding-left:5px;
+    padding-left: 5px;
     padding-right: 5px;
     position: relative;
-    float:left;
+    float: left;
     color: white;
     margin: 0 2px 0 2px;
 }
 
 button {
     position: relative;
-    float:left;
+    float: left;
 }
 
 .button a {
@@ -74,10 +75,20 @@ ul {
 }
 
 #prev {
-    display:none;
+    display: none;
 }
 
 #start {
-    display:none;
+    display: none;
     width: 90px;
+}
+
+#container {
+    background-color: #3CB371;
+}
+
+#title {
+    text-align: center;
+    font-size: 1.5rem;
+    background-color: #32CD77;
 }
